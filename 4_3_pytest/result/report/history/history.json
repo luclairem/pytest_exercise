@@ -1,0 +1,194 @@
+{
+  "8f5dfe7866beff05b94d616f1b6b9436" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df9026a39d3bb516",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649680822816,
+        "stop" : 1649680827347,
+        "duration" : 4531
+      }
+    } ]
+  },
+  "6c3afa5b9debc7a8e98de713ec54a296" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8e0e3821f3e7e16e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649678311202,
+        "stop" : 1649678311202,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6a32a86dca8943f8d2cb71b67e937ff4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "52851a293546681e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649678311205,
+        "stop" : 1649678311205,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d2f87e4286cfe142866ef0d11ad7fc2c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "96cd499cb4c0c0e1",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 只有在1.1版本时执行",
+      "time" : {
+        "start" : 1649680827357,
+        "stop" : 1649680827359,
+        "duration" : 2
+      }
+    } ]
+  },
+  "6a39a8f3f3c65da08bdff81d83d4bf3a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "946aa383f4a4d570",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649678311209,
+        "stop" : 1649678311209,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e199b117c46f1cbb1b8316a49d803873" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f68c5e63185ca200",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649680820105,
+        "stop" : 1649680820106,
+        "duration" : 1
+      }
+    } ]
+  },
+  "3e08017103dc0e175dfccdf958e9bc80" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b68ed5805af4081f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649678311200,
+        "stop" : 1649678311200,
+        "duration" : 0
+      }
+    } ]
+  },
+  "56c8e7cf8231fd0d89547f74e1b13494" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e6690d2073af011",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649680820119,
+        "stop" : 1649680820119,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2fdcb56f5824ed135df619463b24012f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "29617622a65a3039",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649678311195,
+        "stop" : 1649678311195,
+        "duration" : 0
+      }
+    } ]
+  },
+  "98b829fd54ac3a15b11c278733f12e76" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6f3540c2204e24f",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 跳过",
+      "time" : {
+        "start" : 1649678311210,
+        "stop" : 1649678311210,
+        "duration" : 0
+      }
+    } ]
+  }
+}

@@ -1,0 +1,101 @@
+[ {
+  "uid" : "52851a293546681e",
+  "name" : "test_1[login0]",
+  "time" : {
+    "start" : 1649678311205,
+    "stop" : 1649678311205,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29617622a65a3039",
+  "name" : "test_4[1]",
+  "time" : {
+    "start" : 1649678311195,
+    "stop" : 1649678311195,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f68c5e63185ca200",
+  "name" : "test_1",
+  "time" : {
+    "start" : 1649680820105,
+    "stop" : 1649680820106,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e0e3821f3e7e16e",
+  "name" : "test_4[3]",
+  "time" : {
+    "start" : 1649678311202,
+    "stop" : 1649678311202,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96cd499cb4c0c0e1",
+  "name" : "test_2",
+  "time" : {
+    "start" : 1649680827357,
+    "stop" : 1649680827359,
+    "duration" : 2
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "5e6690d2073af011",
+  "name" : "test_2",
+  "time" : {
+    "start" : 1649680820119,
+    "stop" : 1649680820119,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "946aa383f4a4d570",
+  "name" : "test_1[login1]",
+  "time" : {
+    "start" : 1649678311209,
+    "stop" : 1649678311209,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b68ed5805af4081f",
+  "name" : "test_4[2]",
+  "time" : {
+    "start" : 1649678311200,
+    "stop" : 1649678311200,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df9026a39d3bb516",
+  "name" : "test_1",
+  "time" : {
+    "start" : 1649680822816,
+    "stop" : 1649680827347,
+    "duration" : 4531
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f3540c2204e24f",
+  "name" : "test_2_add",
+  "time" : {
+    "start" : 1649678311210,
+    "stop" : 1649678311210,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

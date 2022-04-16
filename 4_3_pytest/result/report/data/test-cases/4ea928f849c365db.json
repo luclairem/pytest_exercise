@@ -1,0 +1,59 @@
+{
+  "uid" : "4ea928f849c365db",
+  "name" : "test_2_add",
+  "fullName" : "testcases.test_4_3_1.Testcases#test_2_add",
+  "historyId" : "98b829fd54ac3a15b11c278733f12e76",
+  "time" : {
+    "start" : 1649596582990,
+    "stop" : 1649596582990,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: 跳过",
+  "statusTrace" : "('D:\\\\Users\\\\lu\\\\PycharmProjects\\\\pythonProject\\\\WebTesting\\\\4_3_pytest\\\\testcases\\\\test_4_3_1.py', 29, 'Skipped: 跳过')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.skipif(True, reason='跳过')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_4_3_1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcases"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-9VUS1R79"
+  }, {
+    "name" : "thread",
+    "value" : "17652-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_4_3_1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.skipif(True, reason='跳过')" ]
+  },
+  "source" : "4ea928f849c365db.json",
+  "parameterValues" : [ ]
+}
